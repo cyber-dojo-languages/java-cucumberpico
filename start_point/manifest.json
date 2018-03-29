@@ -17,5 +17,5 @@
 
   "max_seconds": 15,
 
-  "filename_extension" : ".java"
+  "filename_extension": [ ".java", ".feature" ]
 }
